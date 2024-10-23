@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1729112163602" clover="3.2.0">
-  <project timestamp="1729112163602" name="All files">
-    <metrics statements="235" coveredstatements="0" conditionals="97" coveredconditionals="0" methods="72" coveredmethods="0" elements="404" coveredelements="0" complexity="0" loc="235" ncloc="235" packages="3" files="16" classes="16"/>
+<coverage generated="1729695286090" clover="3.2.0">
+  <project timestamp="1729695286090" name="All files">
+    <metrics statements="234" coveredstatements="0" conditionals="89" coveredconditionals="0" methods="72" coveredmethods="0" elements="395" coveredelements="0" complexity="0" loc="234" ncloc="234" packages="3" files="16" classes="16"/>
     <package name="constants">
       <metrics statements="8" coveredstatements="0" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <file name="routes.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/constants/routes.js">
+      <file name="routes.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/constants/routes.js">
         <metrics statements="8" coveredstatements="0" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="6" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
@@ -15,13 +15,13 @@
         <line num="22" count="0" type="stmt"/>
         <line num="24" count="0" type="stmt"/>
       </file>
-      <file name="usersTest.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/constants/usersTest.js">
+      <file name="usersTest.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/constants/usersTest.js">
         <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       </file>
     </package>
     <package name="containers">
-      <metrics statements="199" coveredstatements="0" conditionals="62" coveredconditionals="0" methods="56" coveredmethods="0"/>
-      <file name="Bills.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/containers/Bills.js">
+      <metrics statements="198" coveredstatements="0" conditionals="54" coveredconditionals="0" methods="56" coveredmethods="0"/>
+      <file name="Bills.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/containers/Bills.js">
         <metrics statements="27" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="9" coveredmethods="0"/>
         <line num="7" count="0" type="stmt"/>
         <line num="8" count="0" type="stmt"/>
@@ -51,8 +51,8 @@
         <line num="56" count="0" type="stmt"/>
         <line num="57" count="0" type="stmt"/>
       </file>
-      <file name="Dashboard.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/containers/Dashboard.js">
-        <metrics statements="74" coveredstatements="0" conditionals="43" coveredconditionals="0" methods="24" coveredmethods="0"/>
+      <file name="Dashboard.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/containers/Dashboard.js">
+        <metrics statements="73" coveredstatements="0" conditionals="35" coveredconditionals="0" methods="24" coveredmethods="0"/>
         <line num="8" count="0" type="stmt"/>
         <line num="9" count="0" type="cond" truecount="0" falsecount="4"/>
         <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -108,27 +108,26 @@
         <line num="124" count="0" type="stmt"/>
         <line num="129" count="0" type="stmt"/>
         <line num="130" count="0" type="stmt"/>
-        <line num="134" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="135" count="0" type="cond" truecount="0" falsecount="4"/>
-        <line num="136" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="137" count="0" type="stmt"/>
+        <line num="134" count="0" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
         <line num="138" count="0" type="stmt"/>
-        <line num="140" count="0" type="stmt"/>
+        <line num="141" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="142" count="0" type="stmt"/>
         <line num="143" count="0" type="stmt"/>
-        <line num="145" count="0" type="stmt"/>
         <line num="148" count="0" type="stmt"/>
         <line num="149" count="0" type="stmt"/>
         <line num="152" count="0" type="stmt"/>
-        <line num="156" count="0" type="stmt"/>
-        <line num="157" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="158" count="0" type="stmt"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="161" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="162" count="0" type="stmt"/>
-        <line num="163" count="0" type="stmt"/>
-        <line num="169" count="0" type="stmt"/>
-        <line num="172" count="0" type="stmt"/>
+        <line num="166" count="0" type="stmt"/>
+        <line num="167" count="0" type="stmt"/>
+        <line num="173" count="0" type="stmt"/>
+        <line num="176" count="0" type="stmt"/>
       </file>
-      <file name="Login.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/containers/Login.js">
+      <file name="Login.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/containers/Login.js">
         <metrics statements="41" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="11" coveredmethods="0"/>
         <line num="3" count="0" type="stmt"/>
         <line num="8" count="0" type="stmt"/>
@@ -172,7 +171,7 @@
         <line num="91" count="0" type="stmt"/>
         <line num="94" count="0" type="stmt"/>
       </file>
-      <file name="Logout.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/containers/Logout.js">
+      <file name="Logout.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/containers/Logout.js">
         <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="5" count="0" type="stmt"/>
         <line num="6" count="0" type="stmt"/>
@@ -182,7 +181,7 @@
         <line num="12" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
       </file>
-      <file name="NewBill.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/containers/NewBill.js">
+      <file name="NewBill.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/containers/NewBill.js">
         <metrics statements="50" coveredstatements="0" conditionals="9" coveredconditionals="0" methods="10" coveredmethods="0"/>
         <line num="6" count="0" type="stmt"/>
         <line num="7" count="0" type="stmt"/>
@@ -238,11 +237,11 @@
     </package>
     <package name="views">
       <metrics statements="28" coveredstatements="0" conditionals="30" coveredconditionals="0" methods="15" coveredmethods="0"/>
-      <file name="Actions.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/views/Actions.js">
+      <file name="Actions.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/views/Actions.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="5" count="0" type="stmt"/>
       </file>
-      <file name="BillsUI.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/views/BillsUI.js">
+      <file name="BillsUI.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/views/BillsUI.js">
         <metrics statements="10" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="6" coveredmethods="0"/>
         <line num="7" count="0" type="stmt"/>
         <line num="8" count="0" type="stmt"/>
@@ -255,12 +254,12 @@
         <line num="48" count="0" type="stmt"/>
         <line num="51" count="0" type="stmt"/>
       </file>
-      <file name="DashboardFormUI.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/views/DashboardFormUI.js">
+      <file name="DashboardFormUI.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/views/DashboardFormUI.js">
         <metrics statements="2" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
         <line num="7" count="0" type="stmt"/>
         <line num="26" count="0" type="stmt"/>
       </file>
-      <file name="DashboardUI.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/views/DashboardUI.js">
+      <file name="DashboardUI.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/views/DashboardUI.js">
         <metrics statements="5" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="10" count="0" type="cond" truecount="0" falsecount="2"/>
         <line num="11" count="0" type="stmt"/>
@@ -268,23 +267,23 @@
         <line num="13" count="0" type="stmt"/>
         <line num="16" count="0" type="stmt"/>
       </file>
-      <file name="ErrorPage.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/views/ErrorPage.js">
+      <file name="ErrorPage.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/views/ErrorPage.js">
         <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
       </file>
-      <file name="LoadingPage.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/views/LoadingPage.js">
+      <file name="LoadingPage.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/views/LoadingPage.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="5" count="0" type="stmt"/>
       </file>
-      <file name="LoginUI.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/views/LoginUI.js">
+      <file name="LoginUI.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/views/LoginUI.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="4" count="0" type="stmt"/>
       </file>
-      <file name="NewBillUI.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/views/NewBillUI.js">
+      <file name="NewBillUI.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/views/NewBillUI.js">
         <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="5" count="0" type="stmt"/>
       </file>
-      <file name="VerticalLayout.js" path="/Volumes/SAVE/www/courses/openclassrooms/oc-react/OC_Project09_Nephelim_Cohen/oc-09-billed/src/views/VerticalLayout.js">
+      <file name="VerticalLayout.js" path="/Volumes/SAVE/WWW/Openclassrooms/oc-09-billed/src/views/VerticalLayout.js">
         <metrics statements="6" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="7" count="0" type="stmt"/>
         <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
