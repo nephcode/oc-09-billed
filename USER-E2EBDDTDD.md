@@ -82,8 +82,8 @@ Il est important dans le cadre des nouvelles phases de tests de mettre à jour l
 
 - **Given** Je suis connectée en tant qu’employé.e
 - **And** Je suis sur la page `Bills`
-- **When** Je clique sur le bouton Télécharger
-- **Then** Le `PDF` du justificatif est téléchargé
+- **When** Je clique sur le bouton `Parcourir`
+- **Then** Le fichier `` du justificatif est chargé
 
 ## Scénario 11
 
@@ -96,7 +96,8 @@ Il est important dans le cadre des nouvelles phases de tests de mettre à jour l
 
 - **Given** Je suis connectée en tant qu’employé.e
 - **And** je suis sur la page `NewBill`
-- **When** Je ne rempli pas les champs correctement **et** je clique sur `envoyer`
+- **When** Je ne rempli pas les champs correctement 
+- **And** je clique sur `envoyer`
 - **Then** Je reste sur la page `NewBill` et des messages m’indiquent mes erreurs
 
 ## Scénario 13
